@@ -73,4 +73,4 @@
   </a>
 </p>
 
-*(Note: Replace `YOUR_USERNAME` in the Engram project link, `YOUR_RESUME_LINK_HERE` in the top right badge, and the `#` inside the Contact `href` tags above with your actual links. The `#mech` appended to your M.E.C.H link will automatically scroll visitors to that section if that id exists on your page).*
+
