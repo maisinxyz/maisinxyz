@@ -5,7 +5,6 @@
 ---
 
 ### Projects
-
 - Co-founded [Engram](https://github.com/AyushNaaa/engram):  a B2B AI SaaS that leverages LLM-powered persistent memory and a semantic data pipeline to unify workflow data and streamline organizational knowledge retrieval.
 
 <br />
@@ -14,7 +13,7 @@
 
 <br />
 
-- Assembled the [Digital Dice](https://vinceongwebsite.vercel.app/projects): a mixed-technology PCB that implements combinational logic circuits using Boolean algebra to accurately decode binary states into 7-segment LED output patterns.
+- Currently developing [DAWNTRACE](https://github.com/maisinxyz/DAWNTRACE): a state-driven embedded C++ system that models natural sunrise illuminance through a non-linear PWM algorithm and preserves long-term sleep telemetry via a byte-level EEPROM circular buffer.
 
 ---
 
