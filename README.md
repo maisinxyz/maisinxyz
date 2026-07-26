@@ -1,21 +1,21 @@
 # Vince Ong <a href="https://vinceongwebsite.vercel.app/resume"><img align="right" src="https://img.shields.io/badge/Resume-00599C?style=for-the-badge&logo=readdotcv&logoColor=white" alt="Resume" /></a> <a href="https://vinceongwebsite.vercel.app"><img align="right" src="https://img.shields.io/badge/Portfolio-000080?style=for-the-badge&logo=googlechrome&logoColor=white" alt="Portfolio" /></a>
+<br />
+2nd-year Mechatronics student at SFU adventuring around the tech industry. <br />
+Curretly building <a href="https://github.com/AyushNaaa/engram">Engram</a> and <a href="https://github.com/maisinxyz/DAWNTRACE">DAWNTRACE</a>.
+<br /> <br/>
 
-**Vince Ong | Mechatronic Systems Engineering Student @ SFU**
+SWE intern @ <a href="https://www.linkedin.com/company/resilient-privacy/">Resilient Privacy</a><br />
+Embedded SWE @ <a href="https://www.linkedin.com/company/sfu-racerbot/">SFU Racerbot</a><br />
+Data Analyst @ <a href="https://www.linkedin.com/company/telus/">TELUS</a>
+<br />
+<br />
 
----
-
-2nd-year Mechatronics student at SFU adventuring around the tech industry.
-
-SWE intern @ [Resilient Privacy](https://www.google.com/search?q=https://www.linkedin.com/company/resilient-privacy/)
-Embedded SWE @ [SFU Racerbot](https://www.google.com/search?q=https://www.linkedin.com/company/sfu-racerbot/)
-Data Analysis @ [TELUS](https://www.linkedin.com/company/telus/).
-
-Lately, I’ve been building [Engram](https://github.com/AyushNaaa/engram) and [DAWNTRACE](https://github.com/maisinxyz/DAWNTRACE)
-
-Outside of school and coding some things I enjoy are:
-- Souls games (Lies of P and sekiro are the goats)
-- Basketball and Soccer (Clippers and Jazz fan)
-- Speed solving Rubik's cubes
+Outside of school and coding, some things I enjoy:
+<ul>
+  <li>Souls games (Lies of P and Sekiro are the goats)</li>
+  <li>Basketball and Soccer (Clippers and Jazz fan)</li>
+  <li>Speed-solving Rubik's cubes</li>
+</ul>
 
 ---
 
