@@ -1,13 +1,12 @@
 # Vince Ong <a href="https://vinceongwebsite.vercel.app/resume"><img align="right" src="https://img.shields.io/badge/Resume-00599C?style=for-the-badge&logo=readdotcv&logoColor=white" alt="Resume" /></a> <a href="https://vinceongwebsite.vercel.app"><img align="right" src="https://img.shields.io/badge/Portfolio-000080?style=for-the-badge&logo=googlechrome&logoColor=white" alt="Portfolio" /></a>
 
-**Mechatronic Systems Engineering Student @ SFU | AI SaaS Founder |Founder of [M.E.C.H](https://vinceongwebsite.vercel.app/experience#mech), a non-profit organization**
+**Vince Ong | Mechatronic Systems Engineering Student @ SFU**
 
 ---
 
-### About me
 2nd-year Mechatronics student at SFU adventuring around the tech industry.
 
-Currently a SWE intern @ [Resilient Privacy](https://www.google.com/search?q=https://www.linkedin.com/company/resilient-privacy/)
+SWE intern @ [Resilient Privacy](https://www.google.com/search?q=https://www.linkedin.com/company/resilient-privacy/)
 Embedded SWE @ [SFU Racerbot](https://www.google.com/search?q=https://www.linkedin.com/company/sfu-racerbot/)
 Data Analysis @ [TELUS](https://www.linkedin.com/company/telus/).
 
