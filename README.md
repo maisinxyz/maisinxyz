@@ -4,16 +4,19 @@
 
 ---
 
-### Projects
-- Co-founded [Engram](https://github.com/AyushNaaa/engram):  a B2B AI SaaS that leverages LLM-powered persistent memory and a semantic data pipeline to unify workflow data and streamline organizational knowledge retrieval.
+### About me
+2nd-year Mechatronics student at SFU adventuring around the tech industry.
 
-<br />
+Currently a SWE intern @ [Resilient Privacy](https://www.google.com/search?q=https://www.linkedin.com/company/resilient-privacy/)
+Embedded SWE @ [SFU Racerbot](https://www.google.com/search?q=https://www.linkedin.com/company/sfu-racerbot/)
+Data Analysis @ [TELUS](https://www.linkedin.com/company/telus/).
 
-- Engineered the [Automatic Spice Dispenser](https://vinceongwebsite.vercel.app/projects): an embedded, stepper motor-driven dispensing system programmed in C++ to achieve sub-degree rotational precision using custom 3D-printed mechanical assemblies.
+Lately, I’ve been building [Engram](https://github.com/AyushNaaa/engram) and [DAWNTRACE](https://github.com/maisinxyz/DAWNTRACE)
 
-<br />
-
-- Currently developing [DAWNTRACE](https://github.com/maisinxyz/DAWNTRACE): a state-driven embedded C++ system that models natural sunrise illuminance through a non-linear PWM algorithm and preserves long-term sleep telemetry via a byte-level EEPROM circular buffer.
+Outside of school and coding some things I enjoy are:
+- Souls games (Lies of P and sekiro are the goats)
+- Basketball and Soccer (Clippers and Jazz fan)
+- Speed solving Rubik's cubes
 
 ---
 
