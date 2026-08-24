@@ -12,8 +12,8 @@ Data Analyst @ <a href="https://www.linkedin.com/company/telus/">TELUS</a>
 
 Outside of school and coding, some things I enjoy:
 <ul>
-  <li>Souls games (Lies of P and Sekiro are the goats)</li>
-  <li>Basketball and Soccer (Clippers and Jazz fan)</li>
+  <li>souls games (I love lies of p and sekiro) </li>
+  <li>Basketball and Soccer (Clippers and spurs fan)</li>
   <li>Speed-solving Rubik's cubes</li>
 </ul>
 
